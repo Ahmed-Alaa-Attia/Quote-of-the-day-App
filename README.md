@@ -8,6 +8,7 @@ This is a straightforward web application built using HTML, CSS, and JavaScript.
 2. You'll see a "Quote of the Day" displayed.
 3. Click the "New Quote" button to get a fresh quote.
 4. If you want to share the quote, click the "Tweet" button.
+5. 'https://ahmed-alaa-attia.github.io/Quote-of-the-day-App/'
 
 ## Features 📝
 
